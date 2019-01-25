@@ -1,4 +1,7 @@
 
+h2{
+	text-align: right;
+}
 p{
-	color: pink;
+	background-color: gray;
 }
